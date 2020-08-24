@@ -9,12 +9,14 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ '/Users/marton/Desktop/dock_alu_body.step',
-/* time_stamp */ '2019-11-02T15:13:11+01:00',
+/* name */ 
+'/Volumes/home/Home Automation/Touch Remote/production/_Kickstarter pr
+oduction/cnc housing/dock ring.step',
+/* time_stamp */ '2020-02-05T18:53:07+01:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18',
-/* originating_system */ 'Autodesk Translation Framework v8.6.0.1094',
+/* originating_system */ 'Autodesk Translation Framework v8.12.0.6',
 /* authorisation */ '');
 
 FILE_SCHEMA (('AUTOMOTIVE_DESIGN { 1 0 10303 214 3 1 1 }'));
